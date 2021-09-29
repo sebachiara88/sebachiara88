@@ -17,3 +17,9 @@ I’m Sebastian, I´m from Buenos Aires, Argentina 🌎 🇦🇷
 ### My portfolio's projects ✏️
 
 - [My very first Data Analytics project](https://github.com/sebachiara88/My-first-Data-Analytics-Project)
+
+- [Covid-19 cases comparison through South American countries up to June 2021](https://github.com/sebachiara88/Covid19Project)
+
+- [Netflix original content, exploratory analysis](https://github.com/sebachiara88/NetflixOriginals2016-2020)
+
+- [Olympics exploratory analysis and visualization](https://github.com/sebachiara88/JJOO)
