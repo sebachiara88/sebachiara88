@@ -16,4 +16,4 @@ I’m Sebastian, I´m from Buenos Aires, Argentina 🌎 🇦🇷
 
 ### My portfolio's projects ✏️
 
-- My very first Data Analytics project
+- [My very first Data Analytics project](https://github.com/sebachiara88/My-first-Data-Analytics-Project)
