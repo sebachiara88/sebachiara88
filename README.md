@@ -14,6 +14,6 @@ I’m Sebastian, I´m from Buenos Aires, Argentina 🌎 🇦🇷
 - Tools: SQL Server, SQLlite, Python (Numpy, Pandas, Maplotlib, Seaborn), PowerBI, Excel
 - Skills: SQL Extract and Cleaning, Data Exploratory, Storytelling and Data Driven, Data Visualization
 
-#### My portfolio's projects ✏️
+### My portfolio's projects ✏️
 
 - My very first Data Analytics project
