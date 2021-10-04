@@ -17,6 +17,8 @@ I’m Sebastian, I´m from Buenos Aires, Argentina 🌎 🇦🇷
 
 # My portfolio's projects ✏️
 
+### SQL, ETL and data visualization (Power BI)
+
 - [My very first Data Analytics project](https://github.com/sebachiara88/My-first-Data-Analytics-Project)
 
 - [Covid-19 cases comparison through South American countries up to June 2021](https://github.com/sebachiara88/Covid19Project)
