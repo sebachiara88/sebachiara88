@@ -27,4 +27,6 @@ I’m Sebastian, I´m from Buenos Aires, Argentina 🌎 🇦🇷
 
 - [Olympics exploratory analysis and visualization](https://github.com/sebachiara88/JJOO)
 
-### Python
+### Python 🐍
+
+- [Webscraping using Pandas](uhttps://github.com/sebachiara88/Webscraping_Pandasrl)
