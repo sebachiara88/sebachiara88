@@ -29,4 +29,4 @@ I’m Sebastian, I´m from Buenos Aires, Argentina 🌎 🇦🇷
 
 ### Python 🐍
 
-- [Webscraping using Pandas: NBA 2020 Season's players](https://github.com/sebachiara88/Webscraping_Pandasrl)
+- [Webscraping using Pandas: NBA 2020 Season's players](https://github.com/sebachiara88/Webscraping_Pandas)
