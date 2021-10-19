@@ -19,7 +19,7 @@ I’m Sebastian, I´m from Buenos Aires, Argentina 🌎 🇦🇷
 
 ### SQL 📋
 
-- [SQL Masterclass for Data Scientist](https://github.com/sebachiara88/SQL-Masterclass) (from [Data With Danny](https://github.com/DataWithDanny/sql-masterclass)) | A series of SQL case studies where I perform Data Cleaning, Data Transformation and solve Business Questions using SQL.
+- [8 Weeks SQL Challenge](https://github.com/sebachiara88/8-Week-SQL-Challenge) (from [Data With Danny](https://github.com/DataWithDanny/sql-masterclass)) | A series of SQL case studies where I perform Data Cleaning, Data Transformation and solve Business Questions using SQL.
 
 ### ETL and data visualization (Power BI) 📊
 
