@@ -17,7 +17,12 @@ I’m Sebastian, I´m from Buenos Aires, Argentina 🌎 🇦🇷
 
 # My portfolio's projects ✏️
 
-### SQL, ETL and data visualization (Power BI)
+### SQL 📋
+
+- [SQL Masterclass for Data Scientist](https://github.com/DataWithDanny/sql-masterclass)
+A series of SQL case studies where I perform Data Cleaning and Data Transformation and solve Business Questions using SQL.
+
+### ETL and data visualization (Power BI) 📊
 
 - [My very first Data Analytics project](https://github.com/sebachiara88/My-first-Data-Analytics-Project)
 
